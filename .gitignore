@@ -1,0 +1,21 @@
+# pycharm
+.idea/
+.DS_Store
+__pycharm__/
+__pycache__/
+*.py[cod]
+*$py.class
+*.zip
+
+# checkpoint
+checkpoint/*
+
+# data
+data/VOC-FOG/
+data/Foggy_Driving/
+
+# log
+logs/
+map_out/
+
+temp/
